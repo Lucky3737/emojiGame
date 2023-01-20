@@ -1,0 +1,26 @@
+/* Write your code here. */
+.winLoss-card {
+  height: 500px;
+  width: 800px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.details-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-size {
+  height: 200px;
+  width: 200px;
+}
+.btn {
+  height: 50px;
+  background-color: yellow;
+  color: darkgray;
+  border-radius: 10px;
+}

@@ -1,0 +1,17 @@
+/* Write your code here. */
+.top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  width: 100%;
+  background-color: rgb(99, 151, 197);
+}
+.emoji-card {
+  display: flex;
+  margin-left: 20px;
+}
+.score-card {
+  display: flex;
+  margin-right: 20px;
+}

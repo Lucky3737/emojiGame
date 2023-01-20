@@ -1,0 +1,19 @@
+/* Write your code here. */
+.emojis {
+  display: flex;
+  flex-wrap: wrap;
+  height: 150px;
+  width: 150px;
+  background-color: rgb(211, 219, 240);
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+.list {
+  list-style-type: none;
+}
+.emoji {
+  height: 80px;
+  width: 80px;
+}
